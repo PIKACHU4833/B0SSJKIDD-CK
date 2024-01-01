@@ -1,5 +1,5 @@
 blak = Color3.new(0,0,0)
-rede = Color3.new(0,0,255)
+rede = Color3.new(245, 205, 48)
 tef = "SourceSans"
 whit = Color3.new(255/255,255/255,255/255)
 gre = Color3.new(0,255,0)
@@ -173,7 +173,7 @@ local title = Instance.new("TextLabel")
 	title.ZIndex = 2
 	title.Font = tef
 	title.FontSize = "Size24"
-	title.Text = "c00lgui Reborn V2.00.5 by x007n7"
+	title.Text = "c00lgui Reborn Remake by JKLO_TEAM"
 	title.TextColor3 = gre
 --           inside pages        --
 local acg = Instance.new("Frame")
